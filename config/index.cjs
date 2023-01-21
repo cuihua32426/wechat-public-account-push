@@ -28,9 +28,9 @@ const USER_CONFIG = {
       horoscopeDate: '11-19',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {
-          type: '*生日', name: '泞泞', year: '1997', date: '10-20',
-        },
+       // {
+          //type: '*生日', name: '泞泞', year: '1997', date: '10-20',
+       // },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
           type: '生日', name: '泞泞', year: '1997', date: '11-19',
